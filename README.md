@@ -10,7 +10,7 @@
 
 ### 3.  代码讲解及参考
 
-见我的博客：[Python生成静态词云及Echarts动态渲染词云](https://www.eula.club/Python生成静态词云及Echarts动态渲染词云.html)
+见我的博客：[Python生成静态词云及Echarts动态渲染词云](https://www.eula.club/blogs/Python生成静态词云及Echarts动态渲染词云.html)
 
 参考资料：
 
